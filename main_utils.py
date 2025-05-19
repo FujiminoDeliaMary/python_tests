@@ -1,8 +1,8 @@
 def addition(a, b):
-    a + b
+    return a + b
 
 def soustraction(a, b):
-    a - b
+    return a - b
 
 def division(a, b):
     if (b == 0):
@@ -10,5 +10,5 @@ def division(a, b):
     return a / b
 
 def multiplication(a, b):
-    a * b
+    return a * b
 
